@@ -140,7 +140,7 @@ This project strengthened my practical understanding of password security and et
 
 ![john the ripper output](screenshots/John the ripper.png)
 
-![hash calculator output](screenshots/Hash Calculator.png)
+![Hash calculator output](screenshots/Hash calculator.PNG)
 
 ![hash cracked output](screenshots/hash cracked.png)
 
