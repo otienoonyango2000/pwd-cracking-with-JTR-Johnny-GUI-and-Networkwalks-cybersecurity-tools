@@ -93,24 +93,6 @@ Understanding how cracking tools compare candidate passwords against a target ha
 
 Understanding why short, predictable, and commonly used passwords are vulnerable to password-cracking attacks.
 
-## 📂 Repository Structure
-
-```text
-Password-Cracking/
-│
-├── README.md
-│
-├── Module-1-John-The-Ripper/
-│   ├── screenshots/
-│   └── documentation/
-│
-└── Module-2-Networkwalks-Tools/
-    ├── screenshots/
-    └── documentation/
-```
-
-*Note: The folders above are a suggested structure for organizing the project.*
-
 ## 💡 Key Takeaways
 
 Through these practical exercises, I gained experience with:
@@ -138,13 +120,17 @@ This project strengthened my practical understanding of password security and et
 
 *Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
 
-![john the ripper output](screenshots/John the ripper.png)
+## Hash Calculator
+![Hash calculator](<Hash calculator.PNG>)
 
-![Hash calculator output](screenshots/Hash calculator.PNG)
+## John the Ripper
+![John the ripper](<John the ripper.PNG>)
 
-![hash cracked output](screenshots/hash cracked.png)
+## Hash Cracked
+![Hash cracked](<hash cracked.PNG>)
 
-![cracked pwd output](screenshots/cracked pwd.png)
+## Cracked Pwd
+![cracked Pwd](<cracked pwd.PNG>)
 
 -End-
 
