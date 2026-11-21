@@ -116,24 +116,6 @@ Password-cracking techniques should only be performed on files, systems, and pas
 
 This project strengthened my practical understanding of password security and ethical hacking. It also provided an opportunity to explore different password-cracking tools and understand how security professionals assess password vulnerabilities.
 
-# Evidences Collected
-
-*Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
-
-## Hash Calculator
-![Hash calculator](<Hash calculator.PNG>)
-
-## John the Ripper
-![John the ripper](<John the ripper.PNG>)
-
-## Hash Cracked
-![Hash cracked](<hash cracked.PNG>)
-
-## Cracked Pwd
-![cracked Pwd](<cracked pwd.PNG>)
-
--End-
-
 **Learning. Practising. Securing.**
 
 ---
